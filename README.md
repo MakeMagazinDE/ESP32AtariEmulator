@@ -4,11 +4,11 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Atari-Emulator auf ESP32-Basis
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Unser Beitrag zeigt, wie Sie mit wenig Aufwand zu einer handliche Atari-Emulatorlösung auf ESP32-Basis kommen.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Mit einem ESP32, einigen elektronischen Bauteilen und Kabeln bauen Sie kostengünstig einen Atari-800-Heimcomputer nach, der alte Spiele und Anwendungen ausführt.
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
 
