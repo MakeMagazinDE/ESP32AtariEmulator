@@ -12,5 +12,5 @@ Mit einem ESP32, einigen elektronischen Bauteilen und Kabeln bauen Sie kostengü
 
 ![Picture](https://github.com/MakeMagazinDE/ESP32AtariEmulator/blob/master/titel.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/25 ab Seite 80](https://www.heise.de/select/make/2025/4/2515316042669730126).
+Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 4/25 ab Seite 38](https://www.heise.de/select/make/2025/4/2515316042669730126).
 Fragen und Anmerkungen bitte ins [Forum](https://www.heise.de/forum/Make/Heft-Projekte/Artikelforum-Heft-4-2025/forum-563668/) zum Heft.
